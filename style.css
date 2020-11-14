@@ -1,0 +1,18 @@
+.card{
+    margin-top: 20px;
+
+   
+}
+.texto{
+    margin-left: 20px;
+    color: white;
+}
+.descrip {
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+.container {
+  height: 200px;
+  width: 300px;
+}
